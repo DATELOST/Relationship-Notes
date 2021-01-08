@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relationship Notes</string>
+    <string name="gift_in">收礼</string>
+    <string name="gift_out">随礼</string>
+    <string name="home">主页</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
